@@ -15,7 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on a pokémon encyclopedia to sharpen my front end skills.
+A few facts about me:
 
-🌱 I’m currently learning more React with the help from courses on [Scrimba](https://scrimba.com/).
+I´m a newly educated front end developer 💻 from Norway 🇳🇴
+
+I’m currently working on a pokémon encyclopedia :smile_cat: to sharpen my front end skills :mortar_board:
+
+I’m currently learning more React :zap: with the help from courses on [Scrimba](https://scrimba.com/) :school:
+
+### Where to find me
+
+<a href="https://github.com/Kaladinge" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 
