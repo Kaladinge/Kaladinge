@@ -25,5 +25,5 @@ I’m currently learning more React :zap: with the help from courses on [Scrimba
 
 ### Where to find me
 
-<a href="https://github.com/Kaladinge" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://github.com/Kaladinge" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=black" /></a>
 
