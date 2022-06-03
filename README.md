@@ -26,6 +26,6 @@ I’m currently learning more React :zap: with the help from courses on [Scrimba
 ### Where to find me
 
 <p><a href="https://github.com/Kaladinge" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="www.linkedin.com/in/lars-inge-g-johnsen" target="_blank"><img alt="LinkedIn" src="/img/linkedin.png" width="15px"/></a></p>      
+<a href="www.linkedin.com/in/lars-inge-g-johnsen" target="_blank"><img alt="LinkedIn" src="/img/linkedin.png" width="15px" padding-bottom="5px"/></a></p>      
               
 
