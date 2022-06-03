@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on a pokémon encyclopedia to sharpen my front end skills.
+
+🌱 I’m currently learning more React with the help from courses on [Scrimba](https://scrimba.com/).
+
