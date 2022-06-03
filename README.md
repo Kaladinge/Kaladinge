@@ -27,6 +27,8 @@ I’m currently learning more React :zap: with the help from courses on [Scrimba
 
 <a href="https://github.com/Kaladinge" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 
-<img alt="LinkedIn" src="https://platform.linkedin.com/badges/js/profile.js" />
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="no_NO" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="lars-inge-g-johnsen" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://no.linkedin.com/in/lars-inge-g-johnsen?trk=profile-badge">Lars-Inge Gammelsæter Johnsen</a></div>
+              
               
 
